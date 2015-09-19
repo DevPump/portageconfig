@@ -1,0 +1,1 @@
+USE="X alsa openal opengl pulseaudio systemd -bindist -consolekit -openrc symlink policykit ipv6 -selinux icu gtk3 libnotify ffmpeg qt5 steamruntime samba spell bluetooth acl"

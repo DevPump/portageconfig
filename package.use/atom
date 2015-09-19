@@ -1,0 +1,3 @@
+>=sys-libs/ncurses-5.9-r3 tinfo
+# required by sys-devel/clang-3.5.0-r100::gentoo
+>=sys-devel/llvm-3.5.0 clang

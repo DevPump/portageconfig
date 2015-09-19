@@ -1,0 +1,5 @@
+# required by app-editors/atom (argument)
+app-editors/atom ~*
+# required by app-editors/atom-1.0.7::emc
+# required by app-editors/atom (argument)
+dev-util/atom-shell ~*
